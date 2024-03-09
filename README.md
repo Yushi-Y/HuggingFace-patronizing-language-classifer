@@ -30,9 +30,9 @@ Useful links:
 
 
 Model improvements:
-- cross validation, precision, recall, f1
-- different pre-trained models (save trained models for ensembling)
-- categorical injection at embedding
-- hyperparameters: lr, lr_schedule, epochs, dropout(final layer)
-- ensemble (average or try linear model)
-- predict on original label
+- Cross-validation, precision, recall, f1
+- Different pre-trained models (save trained models for ensembling)
+- Categorical injection at embedding
+- Hyperparameters: lr, lr_schedule, epochs, dropout (final layer)
+- Ensemble (average or try linear model)
+- Predict the original labels
