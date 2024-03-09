@@ -1,6 +1,6 @@
 # Classifying patronizing and condescending language with BERT models on HuggingFace 
 Description:
-- Ensembled three BERT variants (DistilBERT, RoBERTa) on Hugging Face for identifying patronizing and condescending language, with the ensemble outperforming SemEval 2022's Task 4 baseline RoBERTa model.
+- Ensembled three BERT-variant models (DistilBERT, RoBERTa) from Hugging Face into a custom PyTorch Lightning model to classify patronizing and condescending language, with the best model outperforming SemEval 2022's Task 4 baseline RoBERTa model.
 
 Categories:
 - Unbalanced power relations
