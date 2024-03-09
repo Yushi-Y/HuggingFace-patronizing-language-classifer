@@ -20,7 +20,7 @@ Features: Country, Keyword
 Useful links:
 - **CW spec:** https://static.us.edusercontent.com/files/mCjbUPfgDjtNLLx4hdvs2TcF
 
-- **Our report:** 
+- **Our report:** [NLP_Report](https://github.com/Yushi-Y/patronizing-language-classifer/blob/main/NLP_Report.pdf)
 
 - **Data paper:** https://aclanthology.org/2020.coling-main.518.pdf
 
