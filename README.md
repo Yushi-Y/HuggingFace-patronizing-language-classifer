@@ -20,7 +20,7 @@ Features: Country, Keyword
 Useful links:
 - **CW spec:** https://static.us.edusercontent.com/files/mCjbUPfgDjtNLLx4hdvs2TcF
 
-- **Report Template:** https://www.overleaf.com/read/xhxbhtgjgbxv
+- **Our report:** 
 
 - **Data paper:** https://aclanthology.org/2020.coling-main.518.pdf
 
