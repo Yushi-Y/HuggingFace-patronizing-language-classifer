@@ -53,7 +53,7 @@ class TransformerModel(pl.LightningModule):
         x, y, z = batch
         y_hat = self.model(x)["last_hidden_state"][:, 0, :]
         if self.add_categorical:
-            y_hat = torch.cat([y_hat, z], dim=1)
+            y_hat = torch.cat([y_hat, z], dim=1) # concatenate the transformer output with categorical data before classification
         y_hat = self.classifier(y_hat)
         loss = F.cross_entropy(y_hat, y)
         return loss
